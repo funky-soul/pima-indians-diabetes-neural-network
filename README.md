@@ -68,9 +68,9 @@ O objetivo destes dados é prever diagnosticamente a possibilidade da paciente d
     \end{cases}
     $$
 
-###### [^1]: Para mais informações sobre influências históricas-sociais sobre a saúde dos povos Pima, acesse: [link](https://www.iiste.org/Journals/index.php/PPAR/article/viewFile/36261/37258)
-###### [^2]: Imagem retirada do site: [statisticalatlas.com](https://statisticalatlas.com/United-States/Overview)
-###### [^3]: Imagem retirada do site: [statisticalatlas.com](https://statisticalatlas.com/state/Arizona/Overview)
-###### [^4]: Imagem retirada dos site: [stringfixer.com](https://stringfixer.com/pt/Pima_people)
-###### [^5]: Para mais informações sobre o cálculo da "Diabeties Pedigree Function" acesse: [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf).
+[^1]: Para mais informações sobre influências históricas-sociais sobre a saúde dos povos Pima, acesse: [link](https://www.iiste.org/Journals/index.php/PPAR/article/viewFile/36261/37258).
+[^2]: Imagem retirada do site: [statisticalatlas.com](https://statisticalatlas.com/United-States/Overview).
+[^3]: Imagem retirada do site: [statisticalatlas.com](https://statisticalatlas.com/state/Arizona/Overview).
+[^4]: Imagem retirada dos site: [stringfixer.com](https://stringfixer.com/pt/Pima_people).
+[^5]: Para mais informações sobre o cálculo da "Diabeties Pedigree Function" acesse: [link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2245318/pdf/procascamc00018-0276.pdf).
 
