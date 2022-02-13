@@ -1,6 +1,6 @@
 # <h1 align="center" id="heading">**Predibilidade de diabetes em mulheres do grupo Pima**</h1>
 
-### **Introdução ao grupo étinico Pima**[^1]
+### **Introdução ao grupo étinico Pima**[^1][^4]
 
 O grupo Pìma são um grupo de nativos americanos localizados na área ao sul da Arizona, bem próximo a fronteira com o México.
 
@@ -26,7 +26,7 @@ Desta forma, a tribo Pima enfrentou uma mudança bruta no estilo de vida e de al
 
 <center>
     <img src='assets/pima_foto.png' width=25%/>
-    <figcaption>Kaviu, um ancião Pima[^4]</figcaption>
+    <figcaption>Kaviu, um ancião Pima</figcaption>
 </center>
 
 
